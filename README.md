@@ -1,6 +1,6 @@
 ### The Clean Resume Template
 
-> Note: This template uses [Fira Sans](https://mozilla.github.io/Fira/) for headings and [Charter](practicaltypography.com/charter.html) for body text. Both are available for free download. It's unlikely that you have either of them installed on your system, so you will need to download them and install with Font Book if you're using OS X. You can, of course, use different fonts if you prefer.
+> Note: This template uses [Fira Sans](https://mozilla.github.io/Fira/) for headings and [Charter](practicaltypography.com/charter.html) for body text. Both are available for free download. It's unlikely that you have either of them installed on your system, so you will need to download and install with Font Book if you're using a Mac. Windows users should right click on the font file and select 'install'. You can, of course, use different fonts if you prefer.
 
 Most of us never really take the time to learn the ins and outs of our word processor of choice (usually Microsoft Word). We get by just fine, churning out documents, memos, and the like with unsophisticated typography and typesetting. I would like to believe that we all would like to be churning out documents that are sexy as hell, it's just that we are rarely presented with sufficient motivation to learn the skills required. Or just as likely, we're blissfully ignorant that our typography is lacking in the first place.
 
